@@ -57,6 +57,5 @@ bool is_safe_state(int thread_id, const vector<int>& request) {
                 }
             }
         }
-	  }
-	}
+    }
 }
